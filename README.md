@@ -32,7 +32,9 @@ $ apt install zip
 
 $ unzip NewLogin.zip
 
-$ cd NewLogin
+
+
+
 
 $ cd NewLogin
 
