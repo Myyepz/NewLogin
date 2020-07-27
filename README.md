@@ -10,6 +10,12 @@ $ apt install git
 
 $ git clone https://github.com/Myyepz/NewLogin
 
+$ apt install zip
+
+$ unzip NewLogin.zip
+
+$ cd NewLogin
+
 $ cd NewLogin
 
 $ python -m pip install -r requirements.txt
@@ -21,6 +27,14 @@ $ python3 sby.py
 Installation for VPS
 
 $ git clone https://github.com/Myyepz/NewLogin
+
+$ apt install zip
+
+$ unzip NewLogin.zip
+
+$ cd NewLogin
+
+$ cd NewLogin
 
 $ cd NewLogin
 
