@@ -12,9 +12,9 @@ $ git clone https://github.com/Myyepz/NewLogin
 
 $ apt install zip
 
-$ unzip NewLogin.zip
-
 $ cd NewLogin
+
+$ unzip NewLogin.zip
 
 $ cd NewLogin
 
@@ -30,13 +30,9 @@ $ git clone https://github.com/Myyepz/NewLogin
 
 $ apt install zip
 
-$ unzip NewLogin.zip
-
-
-
-
-
 $ cd NewLogin
+
+$ unzip NewLogin.zip
 
 $ cd NewLogin
 
